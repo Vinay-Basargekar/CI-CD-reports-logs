@@ -38,7 +38,7 @@ Add the following secrets:
 
 ## 📝 Usage
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/Vinay-Basargekar/docker-ci-cd-github-actions.git
